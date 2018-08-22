@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45382626012",
+    "firebase_url": "https://fir-group-chat-demo-mast-ecea3.firebaseio.com",
+    "project_id": "fir-group-chat-demo-mast-ecea3",
+    "storage_bucket": "fir-group-chat-demo-mast-ecea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45382626012:android:c1d9462d0c240cac",
+        "android_client_info": {
+          "package_name": "firebase.com.labs.ramdani.mygroupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45382626012-ifr30qsqgn6oglj66jt11q5t8jka63c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.com.labs.ramdani.mygroupchat",
+            "certificate_hash": "b4592215c8aa4bc9c03862017d12f729151b160c"
+          }
+        },
+        {
+          "client_id": "45382626012-vivgl9vtl564t2bt6n2a8erunumsqc3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTwLzjG4-gUeI2YGjDx60RcCVyiWQCR3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45382626012-vivgl9vtl564t2bt6n2a8erunumsqc3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
